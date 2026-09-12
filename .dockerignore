@@ -1,0 +1,4 @@
+# The wrapper image does not copy repository content, but keeping the build
+# context small makes local and CI builds fast and deterministic.
+**
+!Dockerfile
